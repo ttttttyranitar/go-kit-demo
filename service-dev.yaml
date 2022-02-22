@@ -1,0 +1,3 @@
+app:
+  name: gin-operator
+  port: 9090
